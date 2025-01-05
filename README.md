@@ -13,7 +13,7 @@ React | Firebase Firestore | Firebase Authentication | CSS | UUID
 
 # Projeyi Çalıştırmak için Adımlar:
 	1.	Projeyi Klonlayın:
-git clone [projenin-GitHub-linki]
+git clone https://github.com/nevaldurmaz/Chat.git
 cd [proje-dizini]
 	2.	Bağımlılıkları Yükleyin:
 npm install
